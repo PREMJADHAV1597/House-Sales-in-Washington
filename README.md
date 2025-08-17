@@ -22,4 +22,4 @@ This project showcases a fully interactive data analysis dashboard built using T
 - 
 # HR Analytics Using Power BI  
 
-![HR Dashboard]()
+![Sales Dashboard](https://github.com/PREMJADHAV1597/House-Sales-in-Washington/blob/3c9a128f8dfc39c7df275ee9bccf8380c557434e/Screenshot%202025-08-17%20114150.png)
